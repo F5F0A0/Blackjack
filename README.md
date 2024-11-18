@@ -92,6 +92,26 @@ The code uses arrays to represent hands and separate arrays for handling Aces. M
 
 ---
 
+## Demo
+
+### Game Start
+The game begins with a welcome message and initial card deals:  
+<img src="assets/game-start.png" alt="Game Start" width="35%">
+
+### Player Wins
+An example where the player wins by standing with a higher hand than the dealer:  
+<img src="assets/player-win.png" alt="Player Wins" width="35%">
+
+### Dealer Busts
+The dealer busts, and the player automatically wins:  
+<img src="assets/dealer-bust.png" alt="Dealer Busts" width="35%">
+
+### Dealer Wins
+An example where the dealer wins by having a higher hand than the player:  
+<img src="assets/dealer-win.png" alt="Dealer Wins" width="35%">
+
+---
+
 ## Future Enhancements
 - Add a betting system to simulate real casino gameplay.
 - Implement a graphical or web-based UI for a more immersive experience.
