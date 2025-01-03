@@ -1,6 +1,6 @@
 # Blackjack Simulator
 
-Welcome to **Bridget's Virtual Casino!** This is a single-player Blackjack simulator built in C for a project in **CS449 - Introduction to Systems Software**. Play against the computer in this text-based game and see if you can beat the dealer!
+Welcome to **Bridget's Virtual Casino!** This is a single-player Blackjack simulator built in C for a project in **CS449 - Introduction to Systems Software**. Play against the computer and see if you can beat the dealer!
 
 ---
 
