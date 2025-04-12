@@ -1,6 +1,6 @@
 # Blackjack Simulator
 
-Welcome to **Bridget's Virtual Casino!** This is a single-player Blackjack simulator built in C for a project in **CS449 - Introduction to Systems Software**.
+Welcome to **Bridget's Virtual Casino!** This is a single-player Blackjack simulator built in C.
 
 ---
 
@@ -123,4 +123,3 @@ An example where the dealer wins by having a higher hand than the player:
 ## Author
 **Bridget Brinkman**  
 GitHub: [@F5F0A0](https://github.com/F5F0A0)  
-Project for **CS449 - Introduction to Systems Software**, Summer 2024.
